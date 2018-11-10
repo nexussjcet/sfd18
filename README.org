@@ -12,3 +12,6 @@ Software Freedom Day was established in 2004. First software freedom day was obs
     - Talk: The History of Free Software.
     - Live comparison: Linux vs Windows.
     - Open Discussion: Need for proper gender representation in the tech industry.
+    
+    
+    The event was conducted in association with IEDC Bootcamp, SJCET
