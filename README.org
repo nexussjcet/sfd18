@@ -13,5 +13,4 @@ Software Freedom Day was established in 2004. First software freedom day was obs
 - Live comparison: Linux vs Windows.
 - Open Discussion: Need for proper gender representation in the tech industry.
 
-The event was conducted in association with IEDC Bootcamp, SJCET
-The event was organized before The Nexus Project was officially formed. Before we used to work under the banner of FOSS Club, SJCET.
+The event was conducted in association with IEDC Bootcamp, SJCET. The event was organized before The Nexus Project was officially formed. Before we used to work under the banner of FOSS Club, SJCET.
